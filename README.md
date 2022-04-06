@@ -1,8 +1,10 @@
 # NeuralNetwork
-简单的手写数字识别，未使用第三方库
+简单的手写数字识别，未使用第三方库；准确率：训练集98.97%，测试集97.27%
 
 ## 数据集
 http://yann.lecun.com/exdb/mnist/
+
+使用数据集时，需要修改mainFunc.cpp文件void PredictTest()函数的四个路径
 
 ## 算法流程
 参考：https://www.bilibili.com/video/BV1G441177oz @大野喵渣
