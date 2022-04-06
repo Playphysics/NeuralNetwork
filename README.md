@@ -10,3 +10,13 @@ http://yann.lecun.com/exdb/mnist/
 此代码为上述视频的Cpp版本，主要公式: Y = softmax(A2 tanh(A1 X + B1) + B2)
 
 具体实现均为朴素算法
+
+## 公式推导
+
+见 公式推导.pdf 矩阵函数的章节
+
+细节原理见知乎：  
+矩阵求导术（上）https://zhuanlan.zhihu.com/p/24709748  
+矩阵求导术（下）https://zhuanlan.zhihu.com/p/24863977
+
+
